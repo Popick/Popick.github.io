@@ -1,0 +1,19 @@
+body{
+    background-color: #1d1d1d;
+}
+.headline{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+.greenO{
+    color:greenyellow
+}
+
+.div1{
+    align-self: center;
+    width: 200px;
+    height:200px;
+    background-color: red;
+}
